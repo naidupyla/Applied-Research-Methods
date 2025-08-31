@@ -17,7 +17,6 @@
     features {}
     
     client_id =  "9afd19e1-f940-4fb2-bb0f-f770d9582956"
-    client_secret = "P328Q~9ULvXWWBU5WF0NYftDs_fH4~lKNqbwXadB"
     subscription_id = "3fe970b5-7227-40ec-b4ce-c77ef4efffb6"
     tenant_id  = "5318eefe-8bca-4f0f-a115-d1a32583e5e9"
     
